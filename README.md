@@ -1,6 +1,7 @@
-# 📊 Student Depression Data Analysis Dashboard
+ # 📊 Student Depression Data Analysis Dashboard
 
-![Tableau Dashboard](student-depression-dashboard.png)
+![Tableau Dashboard](student-depression-dashboard.png) 
+
 
 ## 📌 Project Overview
 
