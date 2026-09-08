@@ -1,6 +1,7 @@
  # 📊 Student Depression Data Analysis Dashboard
 
 ![Tableau Dashboard](student-depression-dashboard.png) 
+
 ## 📌 Project Overview
 The **Student Depression Data Analysis Dashboard** is an interactive data visualization project created using **Tableau Public**.
 
