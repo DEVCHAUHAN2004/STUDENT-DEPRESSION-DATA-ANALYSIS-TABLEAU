@@ -6,6 +6,7 @@
 
 
 
+
 The **Student Depression Data Analysis Dashboard** is an interactive data visualization project created using **Tableau Public**.
 
 The main purpose of this project is to analyze different factors related to student well-being and depression patterns, including **Academic Pressure, Financial Stress, Student Satisfaction, Sleep Duration, and Study Hours**.
